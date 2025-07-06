@@ -1,3 +1,9 @@
+<div align="center">
+</div>
+  ![snake gif](https://github.com/AshF000/AshF000/blob/output/github-snake-dark.svg)
+
+
+
 <!--
 - 👋 Hi, I’m Ashfiq Islam (@AshF000).
 - 👀 I’m interested in coding.
