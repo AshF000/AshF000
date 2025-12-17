@@ -1,3 +1,6 @@
+<head>
+  <meta name="google-site-verification" content="peNimVKX9KQxyXOlCmMWE2wB0zc9QTUGmIS1LHA2-dA" />
+</head>
 <div align="center">
   
 ![snake gif](https://github.com/AshF000/AshF000/blob/output/github-snake-dark.svg)
